@@ -1,5 +1,5 @@
 basic:
-    name: 'Wuckert, Bayer and Reynolds'
+    name: 'Ferry LLC'
     environments:
         production: 'https://www.mos.org/'
         staging: ''
